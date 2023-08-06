@@ -1,0 +1,15 @@
+Step 1:
+      Import the necessary librarys
+Step 2:
+      Give the path to the file 
+      Read the file in the using pandas
+      Using code for the read the pdf file 
+      Create the new string 
+      Append the Pdf file in created string 
+      Append the Pdf file without Images
+      Append only the text in the string
+Step 3:
+      Using the Question Generator library
+      Question generator model is used to generate the questions in the input content
+      MCQ question is created using the generated question as options 
+      The options are randoms shuffled 
